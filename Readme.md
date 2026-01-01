@@ -1,6 +1,6 @@
 # Docker Size Optimization
 
-Desafio docker size golang FullCycle
+Desafio docker size golang Full Cycle
 
 ## Imagem Docker
 
